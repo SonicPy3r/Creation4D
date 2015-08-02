@@ -5,3 +5,6 @@ Eine Software fürs Modellieren und Animieren von 3D Modellen.
 * Erstellen von 3D Modellen in Echtzeit.
 * Animieren von 3D Modellen in Echtzeit.
 * Export in gängigen 3D Formaten wie zB *.obj, *.dae...
+
+## Benutze Entwicklungs Umgebung
+* Visual Studio 2015
